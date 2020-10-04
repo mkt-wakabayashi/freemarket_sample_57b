@@ -20,7 +20,7 @@
  　　メールアドレス名: guest@gmail.com  
  　　パスワード: Guest2222  
 
-### ドメイン/SSLサーバー証明書未取得のためFacebook, GoogleのSNS認証は使用不可
+### ドメイン/SSLサーバー証明書未取得のためGoogleのSNS認証は使用不可
 
 ## 開発体制
 人数：3人  
